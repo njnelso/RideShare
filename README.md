@@ -1,2 +1,3 @@
 # RideShare
- A Ride-Share program that demonstrates OOB
+A starting point for a ridesharing
+Object Oriented Programming
